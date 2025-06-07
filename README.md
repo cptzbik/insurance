@@ -14,8 +14,8 @@ Plik modelu best_insurance_model (PyCaret)
 Pliki graficzne: insurance.png, insurance1.png (opcjonalnie własne)
 
 Instalacja
-git clone https://github.com/twoj-login/nazwa-repozytorium.git
-cd nazwa-repozytorium
+git clone https://github.com/cptzbik/insurance.git
+cd cptzbik-insurance
 pip install -r requirements.txt
 
 Uruchomienie
