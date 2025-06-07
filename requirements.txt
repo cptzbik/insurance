@@ -4,3 +4,4 @@ numpy==1.26.4
 pycaret==3.3.2
 scikit-learn==1.4.2
 tqdm==4.67.0
+streamlit-audiorecorder==0.0.6
